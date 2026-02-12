@@ -1,4 +1,4 @@
-# basic math and logic for shmups (and other games)
+# motion, directions, and vectors for shmups (and other games)
 
 ### regarding Y
 when you learned geometry in school, y increased as you went up. on computer displays, y increases as you go down. this means that rather than ``(0,0)`` (origin) being at the bottom-left of your screen, it is at the top-left of your screen. these examples use the more familiar convention of y increasing as you go up, but depending on the game engine or library you are using, you may need to invert y or things may move opposite of the direction you expect.
