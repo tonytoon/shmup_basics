@@ -32,7 +32,7 @@ once each tick we'll do something called *integrating motion* which is the proce
 
 ### position, motion, and vectors
 #### vectors
-anything we store with an x and y value is called a *vector*. position, direction, velocity, and acceleration are all considered vectors. there are two types of vectors we'll concern ourselves with (explained later)
+anything we store with an x and y value is called a *vector*. position, direction, velocity, and acceleration are all considered vectors. mathematically, vectors can be considered as storing both direction and magnitude. there are two types of vectors we'll concern ourselves with (explained later)
 #### scalars
 anything we track that only has one value is called a *scalar*. speed would be considered a scalar.
 #### vectors and angles
